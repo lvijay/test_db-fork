@@ -7,7 +7,7 @@ It is a manual fork because I only need a small subset of the files in
 that repository.  Also, the files have been un-SQL'd and converted
 into plaintext.  The files are used to illustrate using plain shell
 scripts to act as a database.  The illustration is available at
-https://medium.com/galileo-onwards/an-ode-to-shell-52b5a51b4876.
+https://medium.com/galileo-onwards/an-ode-to-the-shell-6717f57afc2e.
 
 # LICENSE
 
